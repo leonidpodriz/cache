@@ -1,0 +1,502 @@
+[
+    {
+        "id": 0,
+        "ip": "99.123.99.23",
+        "group": "blacklist"
+    },
+    {
+        "id": 1,
+        "ip": "145.145.191.21",
+        "group": "global"
+    },
+    {
+        "id": 2,
+        "ip": "144.90.151.155",
+        "group": "blacklist"
+    },
+    {
+        "id": 3,
+        "ip": "130.113.36.64",
+        "group": "blacklist"
+    },
+    {
+        "id": 4,
+        "ip": "162.154.34.156",
+        "group": "whitelist"
+    },
+    {
+        "id": 5,
+        "ip": "12.138.113.181",
+        "group": "global"
+    },
+    {
+        "id": 6,
+        "ip": "182.37.236.66",
+        "group": "whitelist"
+    },
+    {
+        "id": 7,
+        "ip": "53.205.82.113",
+        "group": "blacklist"
+    },
+    {
+        "id": 8,
+        "ip": "70.129.13.226",
+        "group": "blacklist"
+    },
+    {
+        "id": 9,
+        "ip": "172.119.16.234",
+        "group": "global"
+    },
+    {
+        "id": 10,
+        "ip": "107.233.176.234",
+        "group": "whitelist"
+    },
+    {
+        "id": 11,
+        "ip": "83.109.22.129",
+        "group": "blacklist"
+    },
+    {
+        "id": 12,
+        "ip": "131.235.155.65",
+        "group": "whitelist"
+    },
+    {
+        "id": 13,
+        "ip": "76.67.91.123",
+        "group": "blacklist"
+    },
+    {
+        "id": 14,
+        "ip": "95.104.241.94",
+        "group": "global"
+    },
+    {
+        "id": 15,
+        "ip": "94.124.155.83",
+        "group": "whitelist"
+    },
+    {
+        "id": 16,
+        "ip": "168.128.180.254",
+        "group": "whitelist"
+    },
+    {
+        "id": 17,
+        "ip": "55.244.91.31",
+        "group": "whitelist"
+    },
+    {
+        "id": 18,
+        "ip": "168.176.144.3",
+        "group": "blacklist"
+    },
+    {
+        "id": 19,
+        "ip": "159.53.202.135",
+        "group": "blacklist"
+    },
+    {
+        "id": 20,
+        "ip": "101.90.93.109",
+        "group": "global"
+    },
+    {
+        "id": 21,
+        "ip": "131.71.163.138",
+        "group": "whitelist"
+    },
+    {
+        "id": 22,
+        "ip": "133.94.249.147",
+        "group": "blacklist"
+    },
+    {
+        "id": 23,
+        "ip": "166.32.244.191",
+        "group": "whitelist"
+    },
+    {
+        "id": 24,
+        "ip": "96.207.140.74",
+        "group": "whitelist"
+    },
+    {
+        "id": 25,
+        "ip": "217.55.92.60",
+        "group": "whitelist"
+    },
+    {
+        "id": 26,
+        "ip": "225.146.140.92",
+        "group": "whitelist"
+    },
+    {
+        "id": 27,
+        "ip": "240.71.211.142",
+        "group": "global"
+    },
+    {
+        "id": 28,
+        "ip": "141.111.187.15",
+        "group": "blacklist"
+    },
+    {
+        "id": 29,
+        "ip": "88.33.96.81",
+        "group": "blacklist"
+    },
+    {
+        "id": 30,
+        "ip": "123.24.222.152",
+        "group": "whitelist"
+    },
+    {
+        "id": 31,
+        "ip": "123.80.22.235",
+        "group": "global"
+    },
+    {
+        "id": 32,
+        "ip": "25.121.203.95",
+        "group": "global"
+    },
+    {
+        "id": 33,
+        "ip": "236.109.8.250",
+        "group": "blacklist"
+    },
+    {
+        "id": 34,
+        "ip": "230.156.245.194",
+        "group": "whitelist"
+    },
+    {
+        "id": 35,
+        "ip": "31.248.25.191",
+        "group": "whitelist"
+    },
+    {
+        "id": 36,
+        "ip": "35.47.79.164",
+        "group": "whitelist"
+    },
+    {
+        "id": 37,
+        "ip": "39.180.66.172",
+        "group": "whitelist"
+    },
+    {
+        "id": 38,
+        "ip": "236.204.185.92",
+        "group": "global"
+    },
+    {
+        "id": 39,
+        "ip": "73.85.40.97",
+        "group": "blacklist"
+    },
+    {
+        "id": 40,
+        "ip": "195.249.234.119",
+        "group": "blacklist"
+    },
+    {
+        "id": 41,
+        "ip": "72.151.4.237",
+        "group": "whitelist"
+    },
+    {
+        "id": 42,
+        "ip": "100.98.127.116",
+        "group": "whitelist"
+    },
+    {
+        "id": 43,
+        "ip": "177.95.237.188",
+        "group": "blacklist"
+    },
+    {
+        "id": 44,
+        "ip": "149.48.55.20",
+        "group": "whitelist"
+    },
+    {
+        "id": 45,
+        "ip": "69.145.93.240",
+        "group": "blacklist"
+    },
+    {
+        "id": 46,
+        "ip": "88.106.74.116",
+        "group": "global"
+    },
+    {
+        "id": 47,
+        "ip": "255.140.46.106",
+        "group": "blacklist"
+    },
+    {
+        "id": 48,
+        "ip": "148.71.73.211",
+        "group": "blacklist"
+    },
+    {
+        "id": 49,
+        "ip": "116.204.6.101",
+        "group": "global"
+    },
+    {
+        "id": 50,
+        "ip": "189.224.126.51",
+        "group": "whitelist"
+    },
+    {
+        "id": 51,
+        "ip": "71.170.193.49",
+        "group": "whitelist"
+    },
+    {
+        "id": 52,
+        "ip": "175.98.156.171",
+        "group": "blacklist"
+    },
+    {
+        "id": 53,
+        "ip": "138.179.150.228",
+        "group": "global"
+    },
+    {
+        "id": 54,
+        "ip": "168.18.44.34",
+        "group": "global"
+    },
+    {
+        "id": 55,
+        "ip": "83.163.219.19",
+        "group": "blacklist"
+    },
+    {
+        "id": 56,
+        "ip": "6.26.136.8",
+        "group": "global"
+    },
+    {
+        "id": 57,
+        "ip": "144.103.110.242",
+        "group": "whitelist"
+    },
+    {
+        "id": 58,
+        "ip": "68.216.177.217",
+        "group": "global"
+    },
+    {
+        "id": 59,
+        "ip": "136.128.37.205",
+        "group": "global"
+    },
+    {
+        "id": 60,
+        "ip": "245.86.32.179",
+        "group": "blacklist"
+    },
+    {
+        "id": 61,
+        "ip": "155.50.223.72",
+        "group": "blacklist"
+    },
+    {
+        "id": 62,
+        "ip": "86.32.97.111",
+        "group": "global"
+    },
+    {
+        "id": 63,
+        "ip": "4.224.6.236",
+        "group": "blacklist"
+    },
+    {
+        "id": 64,
+        "ip": "223.119.228.195",
+        "group": "whitelist"
+    },
+    {
+        "id": 65,
+        "ip": "78.114.153.13",
+        "group": "blacklist"
+    },
+    {
+        "id": 66,
+        "ip": "155.204.3.112",
+        "group": "global"
+    },
+    {
+        "id": 67,
+        "ip": "118.85.78.127",
+        "group": "blacklist"
+    },
+    {
+        "id": 68,
+        "ip": "74.110.110.71",
+        "group": "whitelist"
+    },
+    {
+        "id": 69,
+        "ip": "207.9.139.190",
+        "group": "global"
+    },
+    {
+        "id": 70,
+        "ip": "21.123.73.222",
+        "group": "whitelist"
+    },
+    {
+        "id": 71,
+        "ip": "254.21.183.152",
+        "group": "whitelist"
+    },
+    {
+        "id": 72,
+        "ip": "111.253.231.79",
+        "group": "blacklist"
+    },
+    {
+        "id": 73,
+        "ip": "39.216.13.123",
+        "group": "whitelist"
+    },
+    {
+        "id": 74,
+        "ip": "119.76.29.73",
+        "group": "whitelist"
+    },
+    {
+        "id": 75,
+        "ip": "49.148.115.40",
+        "group": "blacklist"
+    },
+    {
+        "id": 76,
+        "ip": "101.183.146.61",
+        "group": "blacklist"
+    },
+    {
+        "id": 77,
+        "ip": "129.56.114.243",
+        "group": "whitelist"
+    },
+    {
+        "id": 78,
+        "ip": "186.229.145.197",
+        "group": "blacklist"
+    },
+    {
+        "id": 79,
+        "ip": "119.1.82.223",
+        "group": "global"
+    },
+    {
+        "id": 80,
+        "ip": "2.161.141.9",
+        "group": "global"
+    },
+    {
+        "id": 81,
+        "ip": "45.207.201.220",
+        "group": "global"
+    },
+    {
+        "id": 82,
+        "ip": "106.81.36.212",
+        "group": "blacklist"
+    },
+    {
+        "id": 83,
+        "ip": "1.207.104.29",
+        "group": "blacklist"
+    },
+    {
+        "id": 84,
+        "ip": "95.45.33.137",
+        "group": "global"
+    },
+    {
+        "id": 85,
+        "ip": "163.89.71.179",
+        "group": "global"
+    },
+    {
+        "id": 86,
+        "ip": "24.50.5.45",
+        "group": "global"
+    },
+    {
+        "id": 87,
+        "ip": "42.55.194.24",
+        "group": "whitelist"
+    },
+    {
+        "id": 88,
+        "ip": "113.194.26.248",
+        "group": "whitelist"
+    },
+    {
+        "id": 89,
+        "ip": "50.76.27.155",
+        "group": "whitelist"
+    },
+    {
+        "id": 90,
+        "ip": "69.76.199.81",
+        "group": "global"
+    },
+    {
+        "id": 91,
+        "ip": "182.101.238.154",
+        "group": "blacklist"
+    },
+    {
+        "id": 92,
+        "ip": "51.47.53.57",
+        "group": "whitelist"
+    },
+    {
+        "id": 93,
+        "ip": "66.159.54.226",
+        "group": "global"
+    },
+    {
+        "id": 94,
+        "ip": "19.112.210.54",
+        "group": "whitelist"
+    },
+    {
+        "id": 95,
+        "ip": "128.239.213.24",
+        "group": "global"
+    },
+    {
+        "id": 96,
+        "ip": "127.218.8.39",
+        "group": "whitelist"
+    },
+    {
+        "id": 97,
+        "ip": "244.58.67.197",
+        "group": "global"
+    },
+    {
+        "id": 98,
+        "ip": "111.128.156.101",
+        "group": "blacklist"
+    },
+    {
+        "id": 99,
+        "ip": "121.0.46.2",
+        "group": "whitelist"
+    }
+]
