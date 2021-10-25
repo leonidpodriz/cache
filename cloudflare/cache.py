@@ -1,21 +1,12 @@
 from typing import Optional, Type
 
-from pydantic import BaseModel
-
 from cache.key import CacheKey
+from cloudflare.entitie import CloudflareList
 
 
-class CloudflareItem(BaseModel):
-    ip: Optional[str] = None
+class CloudflareListCacheKey(CacheKey[CloudflareList]):
     id: Optional[str] = None
-    group: Optional[str] = None
-
-
-class CloudflareCacheKey(CacheKey[CloudflareItem]):
-    ip: Optional[str] = None
-    id: Optional[str] = None
-    group: Optional[str] = None
 
     @property
-    def target_type(self) -> Type[CloudflareItem]:
-        return CloudflareItem
+    def target_type(self) -> Type[CloudflareList]:
+        return CloudflareList

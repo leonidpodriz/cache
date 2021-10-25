@@ -8,6 +8,7 @@ redis = "*"
 pydantic = "*"
 mypy = "*"
 pika = "*"
+requests = "*"
 
 [dev-packages]
 
